@@ -26,6 +26,9 @@ public class TestMeasurements {
      
      System.out.println("Test stdDev: " + m.stdDev());
      System.out.println("");
+
+     System.out.println("Test stdDev2: " + m.stdDev());
+     System.out.println("");
      
      System.out.println("TEST ARRAY CONSTRUCTOR");
      double[] a = new double[] {3.314, 13.48, 48., 19.13};
